@@ -9861,3 +9861,17 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+
+.sale-section{
+  background-color: black;
+}
+
+.car-wrap-rent {
+  background-color: white; 
+  border: 3px solid #fc983c;
+}
+
+.dark ul li a{
+  background-color: white;
+}
